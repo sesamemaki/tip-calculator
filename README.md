@@ -1,5 +1,7 @@
 # Frontend Mentor - Tip calculator app
 
+![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
+
 ## Welcome! 👋
 
 This challenge is created by [Frontend Mentor](https://www.frontendmentor.io), feel free to go and check them out to find challenges help you improve your coding skills by building realistic projects.
