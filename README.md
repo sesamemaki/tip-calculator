@@ -1,6 +1,9 @@
 # Frontend Mentor - Tip calculator app
 
+DEMO and Code: https://replit.com/@BurcuYilmaz3/JS-DOM-TipCalculator
+
 ![Design preview for the Tip calculator app coding challenge](./tip-calculator/design/desktop-preview.jpg)
+
 
 ## Welcome! 👋
 
